@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "notebook.defaultFormatter": "vscode.typescript-language-features",
+    "git.ignoreLimitWarning": true
+}
